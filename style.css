@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: px;
+    padding: 80px;
+    background: #fff;
+    
+}
+.care i{
+    background:  #A8c629;
+    color: #fff;
+    font-size: 20px;
+}
+
+.welcome{
+margin-right: 700px
+}
+
+.care{
+     padding: 0px 20px;
+       
+}
+nav ul{
+    padding: inherit;
+    position: center;
+    margin-left: 55%;
+     
+}
+ nav li{ display: inline-block;
+    margin: 0px 20px;
+}
+nav ul li:hover{
+    border: 10px solid #A8c629;
+    background: #A8c629;
+}
+.text{
+    text-align: center;
+    position: relative;
+    top: -500px;
+    color: #fff;
+}
+.text h1{
+    font-size: 60px;
+
+}
+.text button{
+    background: #A8c629;
+    border: 5px solid #A8c629;
+    color: #fff;
+}
+.left{
+   float: left; 
+}
+.left b{
+    background: #A8c629;
+    border: 5px solid #A8c629;
+    border-radius: 5px;
+    margin: 0;
+    padding: 0;
+}
+.health{
+    width: 100px;
+    height: 100px;
+    background: red;
+    color: aqua;
+}
+.containeer{
+    width: 100%;
+    height: 1000px;;
+    margin-right: 5px;
+    background-image: url(img/about-bg.jpg);
+}
+.box{
+    height: 900px;
+    width: 900px;
+    padding: 50px 0px 15px 160px
+}
+.box p{
+    color: #929292;
+}
+.ims{
+         padding-top: 10px;
+
+}
+.ims img, span{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+  
+}
+ .ims h3{float: right;
+   padding-right: 400px;
+    }
+.ims span{
+    font-size: 15px;
+    color: #929292;
+}
+.cardall{
+    background: #f9f9f9;
+}
+.card2{
+    background: #f9f9f9;
+      padding: 100px;
+}
+.card2 h1{
+    position: center;
+    margin: 0px 39% 0px 37%;
+  
+}
+.imss img{
+     height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    float: left;
+   
+}
+.contactinfo{
+    background: red;
+}
+.imss h6{
+    padding-left: 80px;
+}
+.imss h6 span{
+  
+    color: #929292;
+}
+.appoinment{
+    width: 100%;
+    height: 1000px;;
+    margin-right: 5px;
+    background-repeat: no-repeat;
+    background-image: url(img/appointment-image.jpg)
+}
+.form{
+  height: auto;
+    width: 30%;
+    float: right;
+}
+.appoinment input{
+     background: #f9f9f9;
+}
+.message input{
+    height: 100px;
+    background: #f9f9f9;
+}.form button{
+    background: #A5C423;
+    color: #fff;
+    
+}
+.importantt img{
+     height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  
+}
+
+
+.importantt h5{
+    float: right;}
+    .importantt p{
+        float:right;
+        position: center;
+        margin: 0;
+        padding: 0;
+}
+.importantt .march{
+    padding-right: 80px;
+    text-align: left;
+ 
+}
+.icon i{
+    padding: 10px;
+    font-size: 30px;
+}
+.contact i{
+    font-size: 30px;
+    float: left;
+    height: 40px;
+    width: 40px;
+}
+.f1 .f2{
+    margin-left: 100px;
+}
+.f1 p a{
+    margin: 0px 10px 0px 10px;
+    color: #47484B;
+}
+.f1 p a:hover{
+    color:  #A5C423;
+}
